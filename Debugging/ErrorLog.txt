@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "E:/Python/LearningPaython3/Debugging/RiseandAssert.py", line 17, in printBox
+    raise Exception('Symbols needs to be a string of length 1')
+Exception: Symbols needs to be a string of length 1
